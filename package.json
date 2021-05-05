@@ -17,7 +17,8 @@
     "helmet": "^4.6.0",
     "knex": "^0.95.4",
     "morgan": "^1.10.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "npm-install-all": "^1.1.21"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
