@@ -1,0 +1,16 @@
+export default {
+  bill: 'bill',
+  category: 'category',
+  chat_room: 'chat_room',
+  grocery: 'grocery',
+  grocery_item: 'grocery_item',
+  item: 'item',
+  message: 'message',
+  pool: 'pool',
+  tag: 'tag',
+  room_user: 'room_user',
+  todo_item: 'todo_item',
+  todo_list: 'todo_list',
+  user: 'user',
+  user_item: 'user_item',
+};
